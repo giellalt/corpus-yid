@@ -1,0 +1,66 @@
+<document xml:lang="yid" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>411</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="yid"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Jiddisch-latinsk/Seksuelse-nejgung---baj-hetero-homo</origFileName>
+    <parallel_text xml:lang="fin" location="seksuaalinen-suuntautuminen--bi-hetero-homo-.html"/>
+    <parallel_text xml:lang="fit" location="seksuaalinen-taipumus--biiseksuaalinen-hetero-homo.html"/>
+    <parallel_text xml:lang="sma" location="seksuellen-syjhtede--bi-heteroe-homoe.html"/>
+    <parallel_text xml:lang="sme" location="seksualala-sodju---bi-hetero-homo.html"/>
+    <parallel_text xml:lang="smj" location="seksualak-tjardda-bi-hetero-homo.html"/>
+    <parallel_text xml:lang="swe" location="sexuell-laggning---hetero-homo-bi.html"/>
+    <parallel_text location="bulopha-voltrande--bi-hetero-homo.html" xml:lang="rmu"/>
+    <parallel_text location="seksualkane-rigjiba.html" xml:lang="rmf"/>
+    <parallel_text location="seksualno-manuipe--bi-hetero-homo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="seksualno-identiteto-bi-hetero-homo.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="seksualikano-orientiribe--biseksualco-hetero-homoseksualco.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Seksuelse nejgung - baj, hetero, homo</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Seksuelse nejgung - baj, hetero, homo</p>
+    <p xml:lang="swe">Di verter <span type="quote" xml:lang="swe">"seksuele nejgung"</span> bashrajbn di netie fun a mentshn bajm farlibn zich oder bajm vern seksuel gerejtst. Vos batajt <span type="quote" xml:lang="swe">"bi", "hetero"</span> un <span type="quote" xml:lang="swe">"homo"</span>?</p>
+    <p type="title" xml:lang="swe">S'zenen faran draj seksuelse nejgungen: biseksuel, heteroseksuel un homoseksuel.</p>
+    <p xml:lang="swe">Merstens zogt men nor az m'iz a homo, a hetero oder a biseksueler.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">M'iz biseksuel ven men farlibt zich un me vert seksuel gerejtst saj durch mejdlech un saj durch bocherim.</p>
+      <p type="listitem" xml:lang="swe">M'iz heteroseksuel ven men farlibt zich un me vert seksuel gerejtst fun emetsn vos gehert tsum tsvejtn min.</p>
+      <p type="listitem" xml:lang="swe">M'is homoseksuel ven men farlibt zich oder me vert seksuel gerejtst durch emetsn funem zelbn min. Mejdlech vos hobn lib mejdlech kenen ojch hejsn lesbiankes. Tsvishn junge-lajt vos hobn lib junge-lajt vert genitst di batsejchung <span type="quote" xml:lang="swe">"gej"</span>.</p>
+    </list>
+    <p type="title" xml:lang="swe">S'iz normal tsu trachtn vegn der seksueler nejgung</p>
+    <p xml:lang="swe">S'iz a gevenjtleche zach tsu trachtn vegn der seksueler nejgung. Der ojfn vi du batrachtst dajn seksuele nejgung ken zich endern in farlojf fun dajn lebn.</p>
+    <p xml:lang="swe">Du alejn bashlist tsi du vilst zich rufn <span type="quote" xml:lang="swe">"bi", "hetero"</span>, tsi <span type="quote" xml:lang="swe">"homo"</span>. Du kenst ojch bashlisn un zogn az du host nisht kejn bazundere seksuele nejgung.</p>
+    <p type="title" xml:lang="swe">Dervartungen fun der arumiker svive</p>
+    <p xml:lang="swe">Di svive nemt gevejntlech on az du bist heteroseksuel. Ojb du alejn trachtst andersh, ken dos baj dir gorem zajn gefiln fun andershkejt, umzeevdikejt oder opgefremdtkejt.</p>
+    <p type="title" xml:lang="swe">Dertsejln vegn der seksueler nejgung</p>
+    <p xml:lang="swe">Vos es zol nisht zajn dajn seksuele nejgung, bistu der ejntsiker vos bashlist ojb un ven du vilst dertsejln andere vegn dem.</p>
+    <p xml:lang="swe">Ojb du bist heteroseksuel, muzstu geventlech nisht dertsejln vegn dem, vajl dos iz shojn oft mol di ongenumene hanoche. Ojb du bist a homoseksueler oder a biseksueler, vestu efsher filn az du vilst oder az du darfst dertsejln vegn dem.</p>
+    <p type="title" xml:lang="swe">Di seksuele nejgung hot nisht tsu ton mitn ojszen oder mit der ojffirung</p>
+    <p xml:lang="swe">Tejl mentshn mejnen a mol az a gevise ojffirung iz farbundn mit der seksueler nejgung. Dos hejst, az lojt dajn seksueler nejgung muzstu lib hobn gevise zachn, ojszen azoj un azoj, oder hobn bashtimte interesn.</p>
+    <p xml:lang="swe">Ober charakter, ojszen, interesn oder lebns-shtejger hobn nisht kejn shajches tsu di seksuele nejgung fun mentshn.</p>
+    <p type="title" xml:lang="swe">Es iz farvert tsu diskriminirn tsulib a seksueler nejgung</p>
+    <p xml:lang="swe">Du host dos recht, vos zol nisht zajn dajn seksuele nejgung, tsu firn dajn lebn lojt dajn ejgenem viln. Dos gezets farvert tsu diskriminirn a mentshn iber zajne seksuele nejgungen.</p>
+    <p xml:lang="swe">Onfaln ojf emetsn tsulib zajn seksueler nejgung iz a shver farbrechn, bakant mitn nomen <span type="quote" xml:lang="swe">"sine-farbrechn"</span>.</p>
+  </body>
+</document>
