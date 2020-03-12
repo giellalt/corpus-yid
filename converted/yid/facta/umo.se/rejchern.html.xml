@@ -1,0 +1,82 @@
+<document xml:lang="yid" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>883</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="yid"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Jiddisch-latinsk/Rejchern</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Rejchern</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Rejchern</p>
+    <p xml:lang="swe">Ven du rejcherst tabak, otemstu ajn in dajn kerper tojzenten toksinen.</p>
+    <p xml:lang="swe">Dos rejchern derfirt tsu farsheydene shedleche krankejtn. Arum a helft fun di mentshn vos rajchern shtarbn frier far der tsajt, un zej voltn gelebt lenger ven zej voltn nisht gerejchert.</p>
+    <p xml:lang="swe">Dertsu, kumt dos rejchern ojs zejer tajer un dos ken arojsrojfn baj dir prishtshikes, dich opshvachn fizish, un fartempn dem seksueln chejshek. Nisht gekukt ojf dem iz a bevuste zach az mentshn hejbn on rejchern vajl zej viln zich azoj arum <span type="quote" xml:lang="swe">"ojsfajnen"</span> un gut ojszen".</p>
+    <p xml:lang="swe">Kedej tsu bashitsn junge mentshn fun dem shedlechn banits fun tabak, iz faran a gezets vos farvert minder-jerike unter 18 jor tsu kojfn tabak.</p>
+    <p type="title" xml:lang="swe">Tabak</p>
+    <p xml:lang="swe">Me ken rejchern tabak in farshejdene formen un ojfanim, vi lemoshl: papirosn, tsigarn, tsigariljas, durch a ljulke tsi in a nargile.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Der papiros iz der geventlecher ojfn. Papirosn bashtejn nisht nor fun tabak. Inem rojch fun an angetsundenen papiros zenen faran knape 4000 chemishe substantsn. A sach fun zej kenen arojsrufn a rak. Di geferlechste substansn zenen:</p>
+      <p type="listitem" xml:lang="swe">Nikotin. Dos iz a substans vos me meg nitsn blojz in tabak un in produktn tsu helfn di vos viln zich opgevejnen fun rejchern oder kajen tabak. Nikotin iz azoj geferlech az ven me volt dir ajngeshpritst dem nikotin fun fir papirosn glajch in blut arajn, volstu geshtorbn.</p>
+      <p type="listitem" xml:lang="swe">Hidrotsianid. Dos iz a toksisher gaz.</p>
+      <p type="listitem" xml:lang="swe">Kojln-monoksid. Dos iz a toksisher gaz vos gefint zich, tsvishn andere, in dem arojsloz fun di ojtos.</p>
+      <p type="listitem" xml:lang="swe">Smole. In smole zenen faran a sach elementn. A tejl fun zej kenen derfirn tsu a rak. Ojser di papirosn, benitst men zich mit smole, tsvishn andere, in asfalt un in farbn.</p>
+      <p type="listitem" xml:lang="swe">Bajshpiln fun geferleche substansn zenen: blaj, kadmium, amoniak, benzen un radioaktiver polonium.</p>
+    </list>
+    <p type="title" xml:lang="swe">Far vos hejbt men on tsu rejchern?</p>
+    <p xml:lang="swe">Tsum oftesten geshet der ershter pruv tsu rejchern ven men iz tsvishn chavejrim. Me vil filn dem tam un visn vi me filt zich dernoch, efsher iz dos <span type="quote" xml:lang="swe">"azojns un azelechs"</span>. Dos ershte mol iz kimat nishto kejner vos zol dos haltn far geshmak. Farshejdene mentshn rejchern kedej zich tsu bavajzn oder zich tsu filn elter oder zelbshtendiker. Es ken zich dachtn az azoj arum iz gringer zich tsu frajndn mit andere mentshn vos rejchern ojch.</p>
+    <p type="title" xml:lang="swe">S´rov mentshn vejsn az dos iz shedlech</p>
+    <p xml:lang="swe">S´rov mentshn vejsn az s´iz shedlech tsu rejchern un az es ligt in dem gefar. Ober es iz lajchter tsu trachtn az di krankejtn veln grod dich nisht trefn oder az du vest noch ojfhern tsu rejchern ejder dos vet onhejbn vern shedlech.</p>
+    <p xml:lang="swe">Az ejner nemt rejchern, lozn zich gants gich bamerkn gevise hashpoes. Ejn zach, tsum bajshpil, iz az me vert fizish opgeshvacht. Di sibe derfun iz vos baj a rejcher, kumt dem kerper shverer on arajntsutsien dem zojershtof fun der luft un der nikotin vos gefint zich in tabak virkt ojfn harts es zol shtarker klapn.</p>
+    <p xml:lang="swe">Vos jinger du bist ven du hejbst on tsu rejchern, alts greser iz di meglechkejt du zolst vern an adikt, es zol dir shatn un du zolst krank vern funem rejchern. Ejder di lungen antviklen zich in gantsn zenen zej zejer sensitiv, spetsiel kegn dem rojch. Nisht gekukt derojf vos zej kenen nisht bakumen kejn tabak farn elter fun 18 jor, hejbn a sach jingere mentshn on tsu rejchern.</p>
+    <p type="title" xml:lang="swe">Pasiv rejchern</p>
+    <p xml:lang="swe">Ojb du gefinst zich noent tsu mentshn vos rejchern, tsum bajshpil inem zelbn tsimer, zapstu arajn in zich gazn vos der rojch anthalt. Dos hejst pasiv rejchern. Tsulib dem vos pasiv rejchern iz ojch a gefar, iz es farbotn in restauranen, kojfe-zaln, arbetpletser un farmachte lokaln.</p>
+    <p type="title" xml:lang="swe">Ojfhern tsu rejchern</p>
+    <p xml:lang="swe">S´iz lajcht tsu vern a tabak-adikt. Blojz noch etleche papirosn, ken der mojech shojn vern ophengik fun nikotin. Zajn a tabak-adikt hejst az de kerper hot zich tsugevojnt tsu bakumen nikotin un filt zich nisht gut on dem. Dos batajt a shverikejt ojftsuhern. Ober es handelt zich ojch in a obsesiver ojffirung, me gevojnt zich tsu tsu rejchern. S´iz shver zich optsugevojnen funem rejchern afile ven me vil. Fundestvegn iz dos meglech un vos frier me hert ojf, alts beser iz dos. Di merste shedleche krankejtn vos dos rejchern brengt mit zich ken men ojsmajdn durch ojfhern rejchern baj tsajtns.</p>
+    <p type="title" xml:lang="swe">Gute sibes far vos nisht tsu rejchern:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Du vest opshporn gelt far andere zachn, vajl rejchern iz tajer.</p>
+      <p type="listitem" xml:lang="swe">Du vest hobn mer fizishn kojech az du vest nisht rejchern.</p>
+      <p type="listitem" xml:lang="swe">Du vest zajn gezinter on papirosn, saj itster un saj shpeter.</p>
+      <p type="listitem" xml:lang="swe">Du vest nisht antviklen kejn adiktsie un du vest nisht lajdn fun di shverikejtn ojftsuhern, vi lemoshl benken noch rejchern, zajn nervejsh oder farzorgt.</p>
+      <p type="listitem" xml:lang="swe">Dajne klejder veln nisht shtinken funem rojch.</p>
+      <p type="listitem" xml:lang="swe">Du vest nisht hobn kejn shlechtn rejech fun mojl oder gele tsejn.</p>
+      <p type="listitem" xml:lang="swe">Ojb du bist unter 18 jor, kenstu bavajzn un ton shenere zachn ejder zuchn mitlen tsu bakumen tabak.</p>
+      <p type="listitem" xml:lang="swe">Di hojt vet zich dir nisht runtslen far der tsajt.</p>
+      <p type="listitem" xml:lang="swe">Flantsn tabak shtert zejer tsu undzer natur-svive un di agrikultur vert geshedikt fun toksishe materialn.</p>
+    </list>
+    <p xml:lang="swe">Ojb du kvenklst zich tsi rejchern tsi nisht, kenstu ojfshrajbn listes mit males un chesrojnes funem rejchern. Dos kenen zajn klejne oder grojse zachn farbundene mit dajn lebn, mit andere mentshn, mit der arumiker svive, un azoj vajter. Du vest, mit der hilf fun dajner liste, alejn bashlisn vos tsu ton un vi azoj zich tsu batsien tsum rejchern.</p>
+  </body>
+</document>

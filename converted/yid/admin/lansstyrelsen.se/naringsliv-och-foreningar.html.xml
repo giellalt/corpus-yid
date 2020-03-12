@@ -1,0 +1,52 @@
+<document xml:lang="yid" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>66</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="yid"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/YID/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">ביזנעס און ארגאניזאציע - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">ביזנעס און ארגאניזאציע</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">ביזנעס און ארגאניזאציע</p>
+    <p xml:lang="swe">די קאונטי אדמיניסטראציע טוט סטימיולירן די ביזנעסער און אסאסיאציעס פון די געגנט אויף פארשידענע וועגן כדי צו שאפן א אויסהאלטנדע עקאנאמישע אנטוויקלונג און פארמערן ארבעט. די קאונטי אדמיניסטראציע מוטיגט ביזנעסער צו ארבעטן מיט געביטן וואס זענען פארבינדן מיט געשלעכטליכע אייניגקייט, די אטמאספערע און אינטעגראציע צו מוטיגן א אויסהאלטנדע אנטוויקלונג און וואוקס.</p>
+    <p xml:lang="swe">ביזנעס און ארגאניזאציע</p>
+  </body>
+</document>
