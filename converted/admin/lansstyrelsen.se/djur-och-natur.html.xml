@@ -1,53 +1,15 @@
-<document xml:lang="yid" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>102</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="yid"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/YID/djur-och-natur/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">באשעפענישן און נאטור - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">באשעפענישן און נאטור</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">באשעפענישן און נאטור</p>
-    <p xml:lang="swe">די קאונטי אדמיניסטראציע ארבעט אפצוהיטן די קאונטי'ס ווערדפולע געוויקסן, באשעפענישן און נאטורליכע אטמאספערע. דאס רעכנט אריין די מעסטונג פון באשעפענישןאון נאטורליכע אטמאספערע, געבן ערלויבעניש פאר אקטיווטעטן וועלכע קענען באווירקן די אטמאספערע, און דאס אויפשטעלן און אויפהאלטונג פון באשוצטע נאטור ערטער. די זאכן און די נאציאנאלע פארקס פאר זארגן די נאטור מיט אקטיווטעטן און ערפארונג.</p>
-    <p xml:lang="swe">די קאונטי אדמיניסטראציע באשיצט די באשעפענישן פון די קאונטי, און ארבעט פאר זייער גוטס דורך פארמיידונג. מיר קענען איבערנעמען פאראנטווארטליכקייט פון באשעפענישן וועלכע ווערן געשעדיגט, און פארבאטן א מענטש צו האלטן געוויסע באשעפענישן.</p>
-    <p xml:lang="swe">באשעפענישן און נאטור</p>
-  </body>
-</document>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>102</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/YID/djur-och-natur/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur.html"/><parallel_text xml:lang="fin" location="djur-och-natur.html"/><parallel_text xml:lang="fit" location="djur-och-natur.html"/><parallel_text xml:lang="sma" location="djur-och-natur.html"/><parallel_text xml:lang="sme" location="djur-och-natur.html"/><parallel_text xml:lang="swe" location="djur-och-natur.html"/><parallel_text location="djur-och-natur.html" xml:lang="rmu"/><parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/><parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/><parallel_text location="djur-och-natur.html" xml:lang="rmf"/><parallel_text location="djur-och-natur.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">באשעפענישן און נאטור - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe">באשעפענישן און נאטור</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">באשעפענישן און נאטור</p>
+<p xml:lang="swe">די קאונטי אדמיניסטראציע ארבעט אפצוהיטן די קאונטי'ס ווערדפולע געוויקסן, באשעפענישן און נאטורליכע אטמאספערע. דאס רעכנט אריין די מעסטונג פון באשעפענישןאון נאטורליכע אטמאספערע, געבן ערלויבעניש פאר אקטיווטעטן וועלכע קענען באווירקן די אטמאספערע, און דאס אויפשטעלן און אויפהאלטונג פון באשוצטע נאטור ערטער. די זאכן און די נאציאנאלע פארקס פאר זארגן די נאטור מיט אקטיווטעטן און ערפארונג.</p>
+<p xml:lang="swe">די קאונטי אדמיניסטראציע באשיצט די באשעפענישן פון די קאונטי, און ארבעט פאר זייער גוטס דורך פארמיידונג. מיר קענען איבערנעמען פאראנטווארטליכקייט פון באשעפענישן וועלכע ווערן געשעדיגט, און פארבאטן א מענטש צו האלטן געוויסע באשעפענישן.</p>
+<p xml:lang="swe">באשעפענישן און נאטור</p>
+</body></document>

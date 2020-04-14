@@ -1,52 +1,14 @@
-<document xml:lang="yid" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>50</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="yid"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/YID/Pages/OmWebbplatsen.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="fin" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="sma" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="sme" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="swe" location="omwebbplatsen.html"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmu"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmf"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">איבער די וועבסייט - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">איבער די וועבסייט</p>
-    <p xml:lang="swe"><em type="italic">די וועבסייט פון די קאונטי אדמיניסטראציע העלפט באזוכער צו טרעפן אינפארמאציע אנבאנלאנגט וואס די קאונטי אדמיניסטראציע טוט און וויאזוי עס באווירקט אייך און אייער געמיינדע. די סייט ווערט פראדוצירט אין צוזאמענהאנג מיט די אנדערע קאונטי אדמיניסטראציעס אין שוועדן. </em></p>
-    <p xml:lang="swe">איבער די וועבסייט</p>
-  </body>
-</document>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>50</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/YID/Pages/OmWebbplatsen.aspx</origFileName><parallel_text xml:lang="eng" location="omwebbplatsen.html"/><parallel_text xml:lang="fin" location="omwebbplatsen.html"/><parallel_text xml:lang="fit" location="omwebbplatsen.html"/><parallel_text xml:lang="sma" location="omwebbplatsen.html"/><parallel_text xml:lang="sme" location="omwebbplatsen.html"/><parallel_text xml:lang="swe" location="omwebbplatsen.html"/><parallel_text location="omwebbplatsen.html" xml:lang="rmu"/><parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/><parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/><parallel_text location="omwebbplatsen.html" xml:lang="rmf"/><parallel_text location="omwebbplatsen.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">איבער די וועבסייט - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">איבער די וועבסייט</p>
+<p xml:lang="swe"><em type="italic">די וועבסייט פון די קאונטי אדמיניסטראציע העלפט באזוכער צו טרעפן אינפארמאציע אנבאנלאנגט וואס די קאונטי אדמיניסטראציע טוט און וויאזוי עס באווירקט אייך און אייער געמיינדע. די סייט ווערט פראדוצירט אין צוזאמענהאנג מיט די אנדערע קאונטי אדמיניסטראציעס אין שוועדן. </em></p>
+<p xml:lang="swe">איבער די וועבסייט</p>
+</body></document>
