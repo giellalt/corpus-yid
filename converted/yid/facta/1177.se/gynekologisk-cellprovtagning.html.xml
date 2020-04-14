@@ -1,130 +1,87 @@
-<document xml:lang="yid" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2438</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="yid"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName>
-    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
-    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
-    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Ginekologishe tselen-unterzuchung / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">ייִדישJiddish / latinsk skrift</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Ginekologishe tselen-unterzuchungGynekologisk cellprovtagning</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kitsur</p>
-    <p xml:lang="swe">S´iz meglech zich tsu farhitn kegn a rak in muter-heldzl durchfirendik a regulere ginekologishe tseln-unterzuchung. Es vert genumen a probke tseln fun arajngang funem muter-heldzl, vos gefint zich in der frojs seksuelen organ. Azoj arum ken men zich dervisn baj tsajtns tsi es zenen faran enderungen in di tseln velche kenen derfirn tsu a rak inem muter-heldzl.</p>
-    <p xml:lang="swe">S´rov enderungen vos men antdekt zenen klejne enderungen, vos hejln zich alejn. Nor in a tejl faln muz men aveknemen di geenderte tseln. In zeltene faln, ken di tseln-unterzuchung vajzn az ir hot a rak. In azeleche faln, gefint zich di krankejt, bederech-klal, in a friikn tsushtand un di bahandlung vet zajn fil lajchter un mit vejniker baglejt-simptomen.</p>
-    <p xml:lang="swe">Me rekomendirt ale frojen in Shvedn reguler durchtsumachn ginekologishe tseln-unterzuchungen, vos vern ojch gerufn <span type="quote" xml:lang="swe">"ekzamens"</span>. Ojb ir zent tsvishn 23 un 50 jor alt vet ir bakumen a vendung jede draj jor. Shpeter, funem elter fun 60 jor on - jede finf jor. Di genoje praktik bajt zich a bisl far di eltere fun 50 jor un vendt zich in ajer vojnort in land.</p>
-    <p xml:lang="swe">Ir kent ojch derlangen a tseln-probke ven ir gefint zich baj an akusherke oder a ginekolog tsulib andere sibes.</p>
-    <p type="title" xml:lang="swe">Tsugrejtungen</p>
-    <p xml:lang="swe">S´iz nisht nejtik kejn spetsiele tsugrejtung, nor es iz beser nisht tsu hobn kejn seksuele batsiungen un zich nisht banitsn mit kejn kremen in di seksuele organen dem tog far der unterzuchung. Andersh vet zajn shverer tsu interpretirn di rezultatn fun der unterzuchung. Me darf nisht gebn kejn tseln-probke in der tsajt fun menstruatsie.</p>
-    <p type="title" xml:lang="swe">Vi azoj firt men durch di unterzuchung?</p>
-    <p xml:lang="swe">Bajm durchfirn di unterzuchung, bet men ajch zich ojston un antblojzn dem untershtn tejl kerper, un zich lejgn ojf der ginekologisher shtul. Der dokter oder di akusherke ken durchfirn di unterzuchung in lajcht farshejdene formen. Merstens nitst men a klejnem shpatl vos me rajbt on kegn dem muter-heldzl, un shpeter nitst men a vejch bershtele in untershtn kanal funem muter-heldzl.</p>
-    <p xml:lang="swe">Oft vert ir ojch gebetn tsu entfern ojf a rej frages beshas der unterzuchung. Di entfers zenen vichtik kedej tsu kenen richtik interpretirn di probke.</p>
-    <p xml:lang="swe">Di unterzuchung tut nisht vej un zi dojert nor etleche minut. In algemejn bakumt men di rezultatn fun der tseln-unterzuchung in farlojf fun zeks vochn.</p>
-    <p type="title" xml:lang="swe">Vi azoj filt men zich noch der unterzuchung?</p>
-    <p xml:lang="swe">Di unterzuchung brengt nisht mit zich kejn sakone. A mol ken zich trefn a klejne blutung noch der unterzuchung, nor dos iz nisht mesukn.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">In vos bashtejt di ginekologishe tseln-unterzuchung?</p>
-    <p type="title" xml:lang="swe">Gebn a tseln-probke</p>
-    <p xml:lang="swe">Di ginekologishe tseln-probke vert genumen fun untershten tejl funem muter-heldzl, dort vu es kumt arojs in der vagine.</p>
-    <p xml:lang="swe">Di unterzuchung ken vajzn baj tsajtns tsi es zenen faran enderungen in tseln vos kenen derfirn tsu a rak inem muter-heldzl. Di enderungen vos bavajzn zich zenen lajchte un hejln zich ojs alejn. Nor in tejl faln darf men arojsnemen di geenderte tseln. Di unterzuchung ken ojch vajzn az s´iz do a rak, chotsh dos treft zejer zeltn.</p>
-    <p xml:lang="swe">Ojb ir macht durch regulere tseln-unterzuchungen vet ir zajn gut bavornt kegn rak in muter-heldzl, vajl di unterzuchungen derlojbn tsu gefinen di enderungen in di tseln ejder zej antviklen zich in a rak. Livmoder = uterus, mutertracht Äggstock = ovaries, ejershtokn Livmoderhals = muter-heldzl Livmodertapp = arajngang funem muter-heldzl Slida = vagine, mutershejd</p>
-    <p type="title" xml:lang="swe">Regulere unterzuchungen</p>
-    <p xml:lang="swe">Di ginekologishe tseln-unterzuchungen iz a tejl fun der gezunt-unterzuchung vos vert gerufn <span type="quote" xml:lang="swe">"ekzamen"</span> ojf velcher es vern farbetn frojen in Shvedn ojf a regulern ojfn, vajl azoj arum hot men di meglechkejt tsu antdekn enderungen in di tseln un zej bahandlen baj tsajtns. Rak inem muter-heldzl vert zeltener in di letste 40 jor.</p>
-    <p type="title" xml:lang="swe">Tseln-unterzuchung baj andere gelegnhejtn</p>
-    <p xml:lang="swe">Ir kent ojch arajngebn di tseln-probke ven ir gefint zich baj an akusherke oder a ginekolog durchtsufirn a ginekologishe unterzuchung tsulib andere sibes. A mol iz di tseln-unterzuchung mimejle a tejl fun dem ginekologs ojsforshung, tsum bajshpil ojb ir hot enderungen in di blutung - iz es a gute gelegnhejt arajntsugebn a tseln-probke. Dos iz gevuntshn ojb es dernentert zich saj vi saj di tsajt arajntsugebn a probke oder ojb ir hot adurchgelozt di letste tseln-unterzuchung.</p>
-    <p type="title" xml:lang="swe">Enderungen in tseln un rak</p>
-    <p xml:lang="swe">Enderungen in di tseln kenen forkumen tsulib a tserejtsung fun der shlajmhojt, provotsirt durch bakterjes oder durch a tsajt-vajliker viraler antsindung. Dos iz a gants farshprejte tseln-enderung, vos ken dir ojs-hejln fun zich alejn.</p>
-    <p xml:lang="swe">Es nemt a sach tsajt biz di enderungen in di tseln antviklen zich in a rak in muter-heldzl, in algemejn tsen biz fuftsen jor. Zejer zeltn gefint men an antvikeltn rak baj di tseln-unterzuchungen, ober dos geshet ojch a mol. In a zeleche faln gefint zich bederech-klal der rak in a friikn shtapl, un deriber iz meglech az di bahandlung zol zajn a lajchtere mit vejniker baglajt-simptomen.</p>
-    <p xml:lang="swe">Jedes jor vern an erech 450 shvedishe frojen krank ojf a rak in muter-heldzl, beshas a sach mer, arum 30.000 frojen, bakumen a meldung az zej hobn enderungen in di tseln.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Frojen vern farbetn ojf a regulern ojfn</p>
-    <p xml:lang="swe">Ale frojen inem elter fun 23 biz 50 jor, vern bashtelt ojf a tseln-unterzuchung ale draj jor. Vajter, in elter fun 50 biz 60 jor, vert men bashtelt ale finf jor. Di tsajt tsvishn di bashtelungen ken zich endern a bisl far di eltere fun 50 jor. Dos vendt zich inem plats vu ir vojnt in land. Frojen vos zenen shojn frier bahandelt gevorn iber enderungen in di tseln, veln efsher badarfn durchfirn tseln-unterzuchungen ojch noch dem elter fun 60 jor.</p>
-    <p xml:lang="swe">Di meldung vert geshikt ojfn adres ojf velchn ir zent farshribn un di batajlikung iz shtendik a frajvilike.</p>
-    <p type="title" xml:lang="swe">In velche klinik git men arajn di unterzuchung?</p>
-    <p xml:lang="swe">Ven ir vert bashtelt, vert di unterzuchung durchgefirt durch an akusherke in der akusherkes-klinik, vos hejst ojch klinik far muter-bahandlung, in s´rov faln, bakumt men a bashtimtn termin, velchn me ken bajtn.</p>
-    <p xml:lang="swe">Ojb ir get iber di tseln-probke tsuzamen mit a ginekologisher unterzuchung, tsum bajshpil baj a ginekolog oder in farbindung mit a baratung tsu bakumen farhit-mitlen, dan vert di unterzuchung ojch farshribn azoj, az ir zolt bakumen di bashtelung ojf a najer tseln-unterzuchung noch draj oder finf jor.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Es zenen faran frojen vos muzn nisht durchmachn aza unterzuchung</p>
-    <p xml:lang="swe"><em type="italic">Es vern nisht bashtelt frojen vos zenen jinger fun 23 jor oder elter fun 60 jor </em></p>
-    <p xml:lang="swe">Frojen vos zenen jinger fun 23 jor vern nisht bashtelt ojf a tseln-unterzuchung. Richtig iz az enderungen in di tseln zenen gants geventlech farn elter fun 23 jor, nor merstens farshvindn zej fun zich alejn baj a zelche junge frojen. Es iz zejer zeltn az a rak in muter-heldzl zol zich antviklen azoj fri. Ojb ir hot zich shojn batejlikt in a ginekologisher tseln-unterzuchung un di rezultatn zenen etleche mol geven normale bizn elter fun 60 jor, zenen di shantsn shpeter tsu entviklen a rak in muter-heldzl zejer klejne.</p>
-    <p type="title" xml:lang="swe">Di vos hobn nisht gehat kejn seksuele batsiungen muzn nisht durchmachn di unterzuchung</p>
-    <p xml:lang="swe">Di vos hobn kejn mol nisht gehat kejn seksuele batsiungen, muzn nisht durchmachn kejn tseln-unterzuchung. A rak in muter-heldzl antviklt zich blojz baj frojen vos hobn gehat seksuele batsiungen un hobn zich baj der gelegnhejt ongenumen mit a gevisn sort HPV (mentshlecher papiloma-virus).</p>
-    <p type="title" xml:lang="swe">Frojen homoseksualistkes</p>
-    <p xml:lang="swe">Ojch far homoseksualistkes iz gevuntshn durchtsumachn regulere tseln-unterzuchungen. Di sibe dertsu iz az der virus, vos ken derfirn tsu enderungen in tseln, gejt a ponim ojch ariber fun ejn froj tsu a tsvejter.</p>
-    <p type="title" xml:lang="swe">Ver es hot durchgemacht an uterus-operatsie</p>
-    <p xml:lang="swe">Ojb men hot durch an operatsie aropgenumen dem gantsn uterus - azojns iz bakant vi <span type="quote" xml:lang="swe">"histerektomie"</span> - darft ir nisht durchmachn ken tseln-unterzuchung, vajl in a za fal iz ojch der arajngang fun muter-heldzl in gantsn aropgenumen gevorn bejs der operatsie. Ober ojb di operatsie iz durchgefirt gevorn tsulib a rak in muter-heldzl oder tsulib enderungen in tseln fun muter-heldzl, muz men vajter gejn ojf unterzuchungen. In aza fal, nemt men di tseln-probke fun dem ejbershtn tejl vagine.</p>
-    <p xml:lang="swe">Ojb ir zent nisht zicher vos far an operatsie ir hot durchgemacht oder vos genoj men hot ajch aropgenumen bejs der operatsie, kent ir zich nochfregn in der klinik vu men hot ajch operirt. Ojch di akusherke, in der akusherkes-klinik oder klinik far muter-bahandlung, ken ajch oft mol helfn bakumen di dozike informatsie. Ojb ir zent nisht zicher, iz beser jo durchtsumachn di unterzuchung.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Ot vi es gejt tsu di unterzuchung</p>
-    <p type="title" xml:lang="swe">Tsugrejtungen</p>
-    <p xml:lang="swe">Es zenen nisht nejtik kejn spetsiele tsugrejtungen, ober es iz beser nisht tsu hobn kejn seksuele batsiung oder zich banitsn mit velchn nisht iz krem in di seksuele organen, a mes-les far der unterzuchung. Anisht ken zajn shver tsu interpretirn di rezultatn fun der unterzuchung. In der tsajt fun menstruatsie ken men ojch nisht durchfirn di unterzuchung.</p>
-    <p type="title" xml:lang="swe">Unterzuchung funem arajngang funem muter-heldzl</p>
-    <p xml:lang="swe">Bajm durchfirn di unterzuchung, bet men ajch zich ojston dem untershtn tejl kerper un zich aveklegn ojf der ginekologisher unterzuchung-shtul. Der unterzucher oder di unterzucherin, vos iz an akusherke oder a dokter, zundert forzichtik funander di ventlech fun der vagine durch gevejntleche ginekologishe kejlim vos darfn zajn in der zelber temperatur vi der kerper. Di unterzuchung firt men durch in farshejdene formen lojt di farshejdene klinikes. Merstens, nitst men a klejnem shpatl fun holts oder fun plastik, vos me rajbt on kegn dem arajngang funem muter-heldzl un noch dem nitst men a vajch bershtl in untershtn kanal funem muter-heldzl.</p>
-    <p xml:lang="swe">Di unterzuchung gejt adurch gich un dojert, in algemejn, etleche minut. Di unterzuchung tut merstens nisht vej. Es zenen do frojen vos filn an umbekvemlechkejt, ober dos gejt gich ariber.</p>
-    <p type="title" xml:lang="swe">Frages tsum entfern</p>
-    <p xml:lang="swe">Oft mol vert ir ojch gebetn entfern ojf a rej frages beshas der unterzuchung, vi tsum bajshpil:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Ven iz geven der ershter tog fun ajer letster menstruatsie, oder tsi hot di menstruatsie ojf-gehert.</p>
-      <p type="listitem" xml:lang="swe">Tsi ir banitst zich mit farhit-mitlen, un ojb jo, velche.</p>
-      <p type="listitem" xml:lang="swe">Tsi ir vert bahandelt mit hormonen kegn problemen fun dem ibergang-elter.</p>
-      <p type="listitem" xml:lang="swe">Tsi ir zent trogedik oder hot gebojrn in meshech funem letstn jor.</p>
-    </list>
-    <p xml:lang="swe">Di entfers vern arajngegebn tsuzamen mit der probke un zej farlajchtern di informatsie fun di rezultatn in der laboratorie.</p>
-    <p type="title" xml:lang="swe">Es ken trefn, noch dem, a lajchte un nisht-geferliche blutung</p>
-    <p xml:lang="swe">Di shlajmhojt funem muter-heldzl blutikt lajcht un es iz a geventliche zach, es zol arojs a klejn un nisht geferliche kames blut noch der unterzuchung. Dos blut vert farshvundn noch an erech ejn tog.</p>
-    <p type="title" xml:lang="swe">Trogedike frojen kenen durchmachn di unterzuchung</p>
-    <p xml:lang="swe">Di unterzuchung iz in gantsn nisht kejn geferleche, azoj az me ken durchfirn di unterzuchung ojch ojb ir zent trogedik. Me rekomendirt durchtsumachn di unterzuchung tsum shpetstn in der 15ter voch fun der shvangershaft. Di sibe dertsu iz az dos ojsforshn a nisht-geventlechn rezultat iz shver ven dos trogn iz shojn avansirter.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Ven bakumt men an entfer?</p>
-    <p type="title" xml:lang="swe">Der grester tejl entfers vajzn nisht kejn enderungen</p>
-    <p xml:lang="swe">Me bakumt di rezultatn fun der unterzuchung durch dem post in farlojf fun zeks vochn, nor a mol ken es dojern lenger. Arum 95 fun 100 zenen on enderungen in di tseln un vern batracht vi normale. In dem fal, bakumt men durch der post glajch der entfer fun der laboratorie.</p>
-    <p xml:lang="swe">In fal ven ir hot ibergegebn di tseln-probke in a ginekologisher klinik oder a klinik far baratung vegn farmajd-mitlen, iz di klinik alejn farantvortlech ajch tsu gebn dem entfer.</p>
-    <p xml:lang="swe">In zeltene faln iz ummeglech tsu analizirn di tseln-probke, tsum bajshpil, ojb es iz ir geven a sach menstruatsie-blut. In azeleche faln, vet ir bakumen a frishe bashtelung ojf a tseln-unterzuchung.</p>
-    <p type="title" xml:lang="swe">Ojb di unterzuchung antplekt tseln-enderungen</p>
-    <p xml:lang="swe">Az di unterzuchung vajzt farshejdene enderungen in di tseln, zucht men vajter. Ojb di enderungen zenen lajchte un ir zent in elter fun 30 oder 35 - der genojer elter vendt zich in ajer vojnort in land - dan firt men durch iber der probke a virale unterzuchung: Me zucht tsi ir hot a sort HPV (mentshlecher papilomo-virus), veleche ken gojrem zajn a rak inem muter-heldzl. Ven me gefint jo a sort HPV, vert ir bashtelt ojf a termin baj a ginekolog. Ojb ir hot lajchte enderungen in di tseln on aza virus, darft ir durchmachn a frishe tseln-unterzuchung ersht in a jor arum.</p>
-    <p xml:lang="swe">Ven es handelt zich in merere enderungen in di tseln baj frojen unter 30 oder 35 jor alt, rekomendirt men hajnt tsu tog zich tsu lozn unterzuchn durch a ginekolog. In etleche erter in land ken gemolt zajn ir zolt fun dos naj bashtelt vern ojf a tseln-unterzuchung baj an akusherke. Far frojen iber 30 oder 35, baj vemen es vern antdekt ernstere enderungen in di tseln, rekomendirt men ojch zich tsu lozn unterzuchn durch a ginekolog.</p>
-    <p type="title" xml:lang="swe">Di tseln-unterzuchung git nisht kejn fule bavorenung kegn a rak</p>
-    <p xml:lang="swe">Di regulere tseln-unterzuchung iz a gute bavorenung kegn a rak in muter-heldzl, ober nisht kejn absolute. Es ken zich, in zeltene faln, antviklen a rak in muter-heldzl chotsh di rezultatn fun di tseln-unterzuchungen zenen geven normale. Take deriber iz vichtik shtendik tsu gejn ojf a kontrol, michuts di regulere tseln-unterzuchungen, ojb es treft zich a blutung tsvishn di menstruatsies oder a blutung shojn nochn ojfher fun di menstruatsies.</p>
-    <p xml:lang="swe">Shtendik ken men zich farbindn un zich baratn mit a dokter kedej tsu bakumen an ejtse tsu vemen zich tsu vendn.</p>
-    <p type="title" xml:lang="swe">Ir vert efsher zajn farzorgt far der unterzuchung un farn bakumen di rezultatn</p>
-    <p xml:lang="swe">Me ken zajn farzorgt bajm arajngebn di tseln-unterzuchung oder betn vartn ojf di rezultatn. In a zeleche momentn iz beser tsu trachtn az di tseln-unterzuchung iz a sort bashitsung kegn rak. Di enderungen vos men antdekt ken men shtendik, brejt geredt, bazajtikn durch a klejner operatsie, kedej es zol zich nisht antviklen kejn rak in der tsukunft.</p>
-    <p xml:lang="swe">Zejer zeltn bavajzt di unterzuchung az es iz faran an antvikelter rak. In di vejnike faln vos men antdekt a rak baj der tseln-unterzuchung, gefint zich di krenk in a za friikn shtapl, az di bahandlung blajbt a lajchtere un mit vejniker baglejt-simptomen. Durch der tseln-unterzuchung ken men antdekn di krenk baj tsajtns un di shansn tsu vern shtark krank zenen vintsiker.</p>
-    <p type="title" xml:lang="swe">Ir bashlist alejn tsi ir derlojbt tsu haltn di probke</p>
-    <p xml:lang="swe">In algemejn halt men di tseln-probkes. Dos git a meglechkejt tsu farglajchn, lemoshl, naje unterzuchungen mit frierdike un bamerkn farshejdene naje faktn. Di probkes kenen ojch genitst vern in forshungen oder far andere tsvekn derlojbte durch der komisie far etisher forshung. Ojb ir vilt nisht di probke zol gehaltn vern vajter noch der unterzuchung, kent ir dos tsu visn gebn dem vos firt durch di unterzuchung, un dan vet di probke tseshtert vern.</p>
-    <p xml:lang="swe">Protim vegn di unterzuchung vern opgehit ojch in a spetsieln register kedej tsu farbesern di bahandlung. Ojb ir vilt nisht me zol zich mit dem tsvek banitsn mit ajere protim, kent ir fodern me zol zey ojsmekn funem register.</p>
-  </body>
-</document>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2429</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName><parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/><parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/><parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/><parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Ginekologishe tselen-unterzuchung / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Ginekologishe tselen-unterzuchungGynekologisk cellprovtagning</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Kitsur</p>
+<p xml:lang="swe">S´iz meglech zich tsu farhitn kegn a rak in muter-heldzl durchfirendik a regulere ginekologishe tseln-unterzuchung. Es vert genumen a probke tseln fun arajngang funem muter-heldzl, vos gefint zich in der frojs seksuelen organ. Azoj arum ken men zich dervisn baj tsajtns tsi es zenen faran enderungen in di tseln velche kenen derfirn tsu a rak inem muter-heldzl.</p>
+<p xml:lang="swe">S´rov enderungen vos men antdekt zenen klejne enderungen, vos hejln zich alejn. Nor in a tejl faln muz men aveknemen di geenderte tseln. In zeltene faln, ken di tseln-unterzuchung vajzn az ir hot a rak. In azeleche faln, gefint zich di krankejt, bederech-klal, in a friikn tsushtand un di bahandlung vet zajn fil lajchter un mit vejniker baglejt-simptomen.</p>
+<p xml:lang="swe">Me rekomendirt ale frojen in Shvedn reguler durchtsumachn ginekologishe tseln-unterzuchungen, vos vern ojch gerufn <span type="quote" xml:lang="swe">"ekzamens"</span>. Ojb ir zent tsvishn 23 un 50 jor alt vet ir bakumen a vendung jede draj jor. Shpeter, funem elter fun 60 jor on - jede finf jor. Di genoje praktik bajt zich a bisl far di eltere fun 50 jor un vendt zich in ajer vojnort in land.</p>
+<p xml:lang="swe">Ir kent ojch derlangen a tseln-probke ven ir gefint zich baj an akusherke oder a ginekolog tsulib andere sibes.</p>
+<p type="title" xml:lang="swe">Tsugrejtungen</p>
+<p xml:lang="swe">S´iz nisht nejtik kejn spetsiele tsugrejtung, nor es iz beser nisht tsu hobn kejn seksuele batsiungen un zich nisht banitsn mit kejn kremen in di seksuele organen dem tog far der unterzuchung. Andersh vet zajn shverer tsu interpretirn di rezultatn fun der unterzuchung. Me darf nisht gebn kejn tseln-probke in der tsajt fun menstruatsie.</p>
+<p type="title" xml:lang="swe">Vi azoj firt men durch di unterzuchung?</p>
+<p xml:lang="swe">Bajm durchfirn di unterzuchung, bet men ajch zich ojston un antblojzn dem untershtn tejl kerper, un zich lejgn ojf der ginekologisher shtul. Der dokter oder di akusherke ken durchfirn di unterzuchung in lajcht farshejdene formen. Merstens nitst men a klejnem shpatl vos me rajbt on kegn dem muter-heldzl, un shpeter nitst men a vejch bershtele in untershtn kanal funem muter-heldzl.</p>
+<p xml:lang="swe">Oft vert ir ojch gebetn tsu entfern ojf a rej frages beshas der unterzuchung. Di entfers zenen vichtik kedej tsu kenen richtik interpretirn di probke.</p>
+<p xml:lang="swe">Di unterzuchung tut nisht vej un zi dojert nor etleche minut. In algemejn bakumt men di rezultatn fun der tseln-unterzuchung in farlojf fun zeks vochn.</p>
+<p type="title" xml:lang="swe">Vi azoj filt men zich noch der unterzuchung?</p>
+<p xml:lang="swe">Di unterzuchung brengt nisht mit zich kejn sakone. A mol ken zich trefn a klejne blutung noch der unterzuchung, nor dos iz nisht mesukn.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">In vos bashtejt di ginekologishe tseln-unterzuchung?</p>
+<p type="title" xml:lang="swe">Gebn a tseln-probke</p>
+<p xml:lang="swe">Di ginekologishe tseln-probke vert genumen fun untershten tejl funem muter-heldzl, dort vu es kumt arojs in der vagine.</p>
+<p xml:lang="swe">Di unterzuchung ken vajzn baj tsajtns tsi es zenen faran enderungen in tseln vos kenen derfirn tsu a rak inem muter-heldzl. Di enderungen vos bavajzn zich zenen lajchte un hejln zich ojs alejn. Nor in tejl faln darf men arojsnemen di geenderte tseln. Di unterzuchung ken ojch vajzn az s´iz do a rak, chotsh dos treft zejer zeltn.</p>
+<p xml:lang="swe">Ojb ir macht durch regulere tseln-unterzuchungen vet ir zajn gut bavornt kegn rak in muter-heldzl, vajl di unterzuchungen derlojbn tsu gefinen di enderungen in di tseln ejder zej antviklen zich in a rak. Livmoder = uterus, mutertracht Äggstock = ovaries, ejershtokn Livmoderhals = muter-heldzl Livmodertapp = arajngang funem muter-heldzl Slida = vagine, mutershejd</p>
+<p type="title" xml:lang="swe">Regulere unterzuchungen</p>
+<p xml:lang="swe">Di ginekologishe tseln-unterzuchungen iz a tejl fun der gezunt-unterzuchung vos vert gerufn <span type="quote" xml:lang="swe">"ekzamen"</span> ojf velcher es vern farbetn frojen in Shvedn ojf a regulern ojfn, vajl azoj arum hot men di meglechkejt tsu antdekn enderungen in di tseln un zej bahandlen baj tsajtns. Rak inem muter-heldzl vert zeltener in di letste 40 jor.</p>
+<p type="title" xml:lang="swe">Tseln-unterzuchung baj andere gelegnhejtn</p>
+<p xml:lang="swe">Ir kent ojch arajngebn di tseln-probke ven ir gefint zich baj an akusherke oder a ginekolog durchtsufirn a ginekologishe unterzuchung tsulib andere sibes. A mol iz di tseln-unterzuchung mimejle a tejl fun dem ginekologs ojsforshung, tsum bajshpil ojb ir hot enderungen in di blutung - iz es a gute gelegnhejt arajntsugebn a tseln-probke. Dos iz gevuntshn ojb es dernentert zich saj vi saj di tsajt arajntsugebn a probke oder ojb ir hot adurchgelozt di letste tseln-unterzuchung.</p>
+<p type="title" xml:lang="swe">Enderungen in tseln un rak</p>
+<p xml:lang="swe">Enderungen in di tseln kenen forkumen tsulib a tserejtsung fun der shlajmhojt, provotsirt durch bakterjes oder durch a tsajt-vajliker viraler antsindung. Dos iz a gants farshprejte tseln-enderung, vos ken dir ojs-hejln fun zich alejn.</p>
+<p xml:lang="swe">Es nemt a sach tsajt biz di enderungen in di tseln antviklen zich in a rak in muter-heldzl, in algemejn tsen biz fuftsen jor. Zejer zeltn gefint men an antvikeltn rak baj di tseln-unterzuchungen, ober dos geshet ojch a mol. In a zeleche faln gefint zich bederech-klal der rak in a friikn shtapl, un deriber iz meglech az di bahandlung zol zajn a lajchtere mit vejniker baglajt-simptomen.</p>
+<p xml:lang="swe">Jedes jor vern an erech 450 shvedishe frojen krank ojf a rak in muter-heldzl, beshas a sach mer, arum 30.000 frojen, bakumen a meldung az zej hobn enderungen in di tseln.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Frojen vern farbetn ojf a regulern ojfn</p>
+<p xml:lang="swe">Ale frojen inem elter fun 23 biz 50 jor, vern bashtelt ojf a tseln-unterzuchung ale draj jor. Vajter, in elter fun 50 biz 60 jor, vert men bashtelt ale finf jor. Di tsajt tsvishn di bashtelungen ken zich endern a bisl far di eltere fun 50 jor. Dos vendt zich inem plats vu ir vojnt in land. Frojen vos zenen shojn frier bahandelt gevorn iber enderungen in di tseln, veln efsher badarfn durchfirn tseln-unterzuchungen ojch noch dem elter fun 60 jor.</p>
+<p xml:lang="swe">Di meldung vert geshikt ojfn adres ojf velchn ir zent farshribn un di batajlikung iz shtendik a frajvilike.</p>
+<p type="title" xml:lang="swe">In velche klinik git men arajn di unterzuchung?</p>
+<p xml:lang="swe">Ven ir vert bashtelt, vert di unterzuchung durchgefirt durch an akusherke in der akusherkes-klinik, vos hejst ojch klinik far muter-bahandlung, in s´rov faln, bakumt men a bashtimtn termin, velchn me ken bajtn.</p>
+<p xml:lang="swe">Ojb ir get iber di tseln-probke tsuzamen mit a ginekologisher unterzuchung, tsum bajshpil baj a ginekolog oder in farbindung mit a baratung tsu bakumen farhit-mitlen, dan vert di unterzuchung ojch farshribn azoj, az ir zolt bakumen di bashtelung ojf a najer tseln-unterzuchung noch draj oder finf jor.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Es zenen faran frojen vos muzn nisht durchmachn aza unterzuchung</p>
+<p xml:lang="swe"><em type="italic">Es vern nisht bashtelt frojen vos zenen jinger fun 23 jor oder elter fun 60 jor </em></p>
+<p xml:lang="swe">Frojen vos zenen jinger fun 23 jor vern nisht bashtelt ojf a tseln-unterzuchung. Richtig iz az enderungen in di tseln zenen gants geventlech farn elter fun 23 jor, nor merstens farshvindn zej fun zich alejn baj a zelche junge frojen. Es iz zejer zeltn az a rak in muter-heldzl zol zich antviklen azoj fri. Ojb ir hot zich shojn batejlikt in a ginekologisher tseln-unterzuchung un di rezultatn zenen etleche mol geven normale bizn elter fun 60 jor, zenen di shantsn shpeter tsu entviklen a rak in muter-heldzl zejer klejne.</p>
+<p type="title" xml:lang="swe">Di vos hobn nisht gehat kejn seksuele batsiungen muzn nisht durchmachn di unterzuchung</p>
+<p xml:lang="swe">Di vos hobn kejn mol nisht gehat kejn seksuele batsiungen, muzn nisht durchmachn kejn tseln-unterzuchung. A rak in muter-heldzl antviklt zich blojz baj frojen vos hobn gehat seksuele batsiungen un hobn zich baj der gelegnhejt ongenumen mit a gevisn sort HPV (mentshlecher papiloma-virus).</p>
+<p type="title" xml:lang="swe">Frojen homoseksualistkes</p>
+<p xml:lang="swe">Ojch far homoseksualistkes iz gevuntshn durchtsumachn regulere tseln-unterzuchungen. Di sibe dertsu iz az der virus, vos ken derfirn tsu enderungen in tseln, gejt a ponim ojch ariber fun ejn froj tsu a tsvejter.</p>
+<p type="title" xml:lang="swe">Ver es hot durchgemacht an uterus-operatsie</p>
+<p xml:lang="swe">Ojb men hot durch an operatsie aropgenumen dem gantsn uterus - azojns iz bakant vi <span type="quote" xml:lang="swe">"histerektomie"</span> - darft ir nisht durchmachn ken tseln-unterzuchung, vajl in a za fal iz ojch der arajngang fun muter-heldzl in gantsn aropgenumen gevorn bejs der operatsie. Ober ojb di operatsie iz durchgefirt gevorn tsulib a rak in muter-heldzl oder tsulib enderungen in tseln fun muter-heldzl, muz men vajter gejn ojf unterzuchungen. In aza fal, nemt men di tseln-probke fun dem ejbershtn tejl vagine.</p>
+<p xml:lang="swe">Ojb ir zent nisht zicher vos far an operatsie ir hot durchgemacht oder vos genoj men hot ajch aropgenumen bejs der operatsie, kent ir zich nochfregn in der klinik vu men hot ajch operirt. Ojch di akusherke, in der akusherkes-klinik oder klinik far muter-bahandlung, ken ajch oft mol helfn bakumen di dozike informatsie. Ojb ir zent nisht zicher, iz beser jo durchtsumachn di unterzuchung.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Ot vi es gejt tsu di unterzuchung</p>
+<p type="title" xml:lang="swe">Tsugrejtungen</p>
+<p xml:lang="swe">Es zenen nisht nejtik kejn spetsiele tsugrejtungen, ober es iz beser nisht tsu hobn kejn seksuele batsiung oder zich banitsn mit velchn nisht iz krem in di seksuele organen, a mes-les far der unterzuchung. Anisht ken zajn shver tsu interpretirn di rezultatn fun der unterzuchung. In der tsajt fun menstruatsie ken men ojch nisht durchfirn di unterzuchung.</p>
+<p type="title" xml:lang="swe">Unterzuchung funem arajngang funem muter-heldzl</p>
+<p xml:lang="swe">Bajm durchfirn di unterzuchung, bet men ajch zich ojston dem untershtn tejl kerper un zich aveklegn ojf der ginekologisher unterzuchung-shtul. Der unterzucher oder di unterzucherin, vos iz an akusherke oder a dokter, zundert forzichtik funander di ventlech fun der vagine durch gevejntleche ginekologishe kejlim vos darfn zajn in der zelber temperatur vi der kerper. Di unterzuchung firt men durch in farshejdene formen lojt di farshejdene klinikes. Merstens, nitst men a klejnem shpatl fun holts oder fun plastik, vos me rajbt on kegn dem arajngang funem muter-heldzl un noch dem nitst men a vajch bershtl in untershtn kanal funem muter-heldzl.</p>
+<p xml:lang="swe">Di unterzuchung gejt adurch gich un dojert, in algemejn, etleche minut. Di unterzuchung tut merstens nisht vej. Es zenen do frojen vos filn an umbekvemlechkejt, ober dos gejt gich ariber.</p>
+<p type="title" xml:lang="swe">Frages tsum entfern</p>
+<p xml:lang="swe">Oft mol vert ir ojch gebetn entfern ojf a rej frages beshas der unterzuchung, vi tsum bajshpil:</p>
+<list><p type="listitem" xml:lang="swe">Ven iz geven der ershter tog fun ajer letster menstruatsie, oder tsi hot di menstruatsie ojf-gehert.</p>
+<p type="listitem" xml:lang="swe">Tsi ir banitst zich mit farhit-mitlen, un ojb jo, velche.</p>
+<p type="listitem" xml:lang="swe">Tsi ir vert bahandelt mit hormonen kegn problemen fun dem ibergang-elter.</p>
+<p type="listitem" xml:lang="swe">Tsi ir zent trogedik oder hot gebojrn in meshech funem letstn jor.</p>
+</list><p xml:lang="swe">Di entfers vern arajngegebn tsuzamen mit der probke un zej farlajchtern di informatsie fun di rezultatn in der laboratorie.</p>
+<p type="title" xml:lang="swe">Es ken trefn, noch dem, a lajchte un nisht-geferliche blutung</p>
+<p xml:lang="swe">Di shlajmhojt funem muter-heldzl blutikt lajcht un es iz a geventliche zach, es zol arojs a klejn un nisht geferliche kames blut noch der unterzuchung. Dos blut vert farshvundn noch an erech ejn tog.</p>
+<p type="title" xml:lang="swe">Trogedike frojen kenen durchmachn di unterzuchung</p>
+<p xml:lang="swe">Di unterzuchung iz in gantsn nisht kejn geferleche, azoj az me ken durchfirn di unterzuchung ojch ojb ir zent trogedik. Me rekomendirt durchtsumachn di unterzuchung tsum shpetstn in der 15ter voch fun der shvangershaft. Di sibe dertsu iz az dos ojsforshn a nisht-geventlechn rezultat iz shver ven dos trogn iz shojn avansirter.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Ven bakumt men an entfer?</p>
+<p type="title" xml:lang="swe">Der grester tejl entfers vajzn nisht kejn enderungen</p>
+<p xml:lang="swe">Me bakumt di rezultatn fun der unterzuchung durch dem post in farlojf fun zeks vochn, nor a mol ken es dojern lenger. Arum 95 fun 100 zenen on enderungen in di tseln un vern batracht vi normale. In dem fal, bakumt men durch der post glajch der entfer fun der laboratorie.</p>
+<p xml:lang="swe">In fal ven ir hot ibergegebn di tseln-probke in a ginekologisher klinik oder a klinik far baratung vegn farmajd-mitlen, iz di klinik alejn farantvortlech ajch tsu gebn dem entfer.</p>
+<p xml:lang="swe">In zeltene faln iz ummeglech tsu analizirn di tseln-probke, tsum bajshpil, ojb es iz ir geven a sach menstruatsie-blut. In azeleche faln, vet ir bakumen a frishe bashtelung ojf a tseln-unterzuchung.</p>
+<p type="title" xml:lang="swe">Ojb di unterzuchung antplekt tseln-enderungen</p>
+<p xml:lang="swe">Az di unterzuchung vajzt farshejdene enderungen in di tseln, zucht men vajter. Ojb di enderungen zenen lajchte un ir zent in elter fun 30 oder 35 - der genojer elter vendt zich in ajer vojnort in land - dan firt men durch iber der probke a virale unterzuchung: Me zucht tsi ir hot a sort HPV (mentshlecher papilomo-virus), veleche ken gojrem zajn a rak inem muter-heldzl. Ven me gefint jo a sort HPV, vert ir bashtelt ojf a termin baj a ginekolog. Ojb ir hot lajchte enderungen in di tseln on aza virus, darft ir durchmachn a frishe tseln-unterzuchung ersht in a jor arum.</p>
+<p xml:lang="swe">Ven es handelt zich in merere enderungen in di tseln baj frojen unter 30 oder 35 jor alt, rekomendirt men hajnt tsu tog zich tsu lozn unterzuchn durch a ginekolog. In etleche erter in land ken gemolt zajn ir zolt fun dos naj bashtelt vern ojf a tseln-unterzuchung baj an akusherke. Far frojen iber 30 oder 35, baj vemen es vern antdekt ernstere enderungen in di tseln, rekomendirt men ojch zich tsu lozn unterzuchn durch a ginekolog.</p>
+<p type="title" xml:lang="swe">Di tseln-unterzuchung git nisht kejn fule bavorenung kegn a rak</p>
+<p xml:lang="swe">Di regulere tseln-unterzuchung iz a gute bavorenung kegn a rak in muter-heldzl, ober nisht kejn absolute. Es ken zich, in zeltene faln, antviklen a rak in muter-heldzl chotsh di rezultatn fun di tseln-unterzuchungen zenen geven normale. Take deriber iz vichtik shtendik tsu gejn ojf a kontrol, michuts di regulere tseln-unterzuchungen, ojb es treft zich a blutung tsvishn di menstruatsies oder a blutung shojn nochn ojfher fun di menstruatsies.</p>
+<p xml:lang="swe">Shtendik ken men zich farbindn un zich baratn mit a dokter kedej tsu bakumen an ejtse tsu vemen zich tsu vendn.</p>
+<p type="title" xml:lang="swe">Ir vert efsher zajn farzorgt far der unterzuchung un farn bakumen di rezultatn</p>
+<p xml:lang="swe">Me ken zajn farzorgt bajm arajngebn di tseln-unterzuchung oder betn vartn ojf di rezultatn. In a zeleche momentn iz beser tsu trachtn az di tseln-unterzuchung iz a sort bashitsung kegn rak. Di enderungen vos men antdekt ken men shtendik, brejt geredt, bazajtikn durch a klejner operatsie, kedej es zol zich nisht antviklen kejn rak in der tsukunft.</p>
+<p xml:lang="swe">Zejer zeltn bavajzt di unterzuchung az es iz faran an antvikelter rak. In di vejnike faln vos men antdekt a rak baj der tseln-unterzuchung, gefint zich di krenk in a za friikn shtapl, az di bahandlung blajbt a lajchtere un mit vejniker baglejt-simptomen. Durch der tseln-unterzuchung ken men antdekn di krenk baj tsajtns un di shansn tsu vern shtark krank zenen vintsiker.</p>
+<p type="title" xml:lang="swe">Ir bashlist alejn tsi ir derlojbt tsu haltn di probke</p>
+<p xml:lang="swe">In algemejn halt men di tseln-probkes. Dos git a meglechkejt tsu farglajchn, lemoshl, naje unterzuchungen mit frierdike un bamerkn farshejdene naje faktn. Di probkes kenen ojch genitst vern in forshungen oder far andere tsvekn derlojbte durch der komisie far etisher forshung. Ojb ir vilt nisht di probke zol gehaltn vern vajter noch der unterzuchung, kent ir dos tsu visn gebn dem vos firt durch di unterzuchung, un dan vet di probke tseshtert vern.</p>
+<p xml:lang="swe">Protim vegn di unterzuchung vern opgehit ojch in a spetsieln register kedej tsu farbesern di bahandlung. Ojb ir vilt nisht me zol zich mit dem tsvek banitsn mit ajere protim, kent ir fodern me zol zey ojsmekn funem register.</p>
+</body></document>

@@ -1,52 +1,14 @@
-<document xml:lang="yid" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>131</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="yid"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/YID/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="startsida.html"/>
-    <parallel_text xml:lang="fin" location="startsida.html"/>
-    <parallel_text xml:lang="fit" location="startsida.html"/>
-    <parallel_text xml:lang="sma" location="startsida.html"/>
-    <parallel_text xml:lang="sme" location="startsida.html"/>
-    <parallel_text xml:lang="swe" location="startsida.html"/>
-    <parallel_text location="startsida.html" xml:lang="rmu"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rka"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="startsida.html" xml:lang="rmf"/>
-    <parallel_text location="startsida.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">קאונטי אדמיניסטראטיווע באורד - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe">היים בלאט</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">קאונטי אדמיניסטראטיווע באורד</p>
-    <p xml:lang="swe"><em type="italic">די קאונטי אדמיניסטראציע איז א שטאטליכע אגענטור וואס איז נאנט צו מענטשן אין איטליכע קאונטי. מיר זענען א וויכטיגע פארבינדונג צווישן מענשטן אין מוניציפאליטעטן פון איין זייט, און די רעגירונג, פארלימענט, און צענטראלע אגענטורן פון די אנדערע זייט. די קאונטי גאווארנאר איז די הויפט פון די קאונטי אדמיניסטראציע און איז באאויפטראגט מיט אויפזיכטן אנטוויקלונגען און אינפארמירן די רעגירונג איבער די געברויכן פון די קאונטי. </em></p>
-    <p xml:lang="swe">די קאונטי אטדמיניסטראציע'ס מיסיע איז צו מוטיגן א אויסהאלטנדע אנטוויקלונג פון די קאונטי, קאארדינירן א גוטע ענווייראמענטאלע, וואוקס, און גוטע-וואוינונג אומשטענדן. די קאונטי אדמיניסטראציע איז פאראנטווארטליך פארן אויספירן רעגירונג און פארלימענטארע באשלוסן אין די קאונטי אין קאארדינירן מיט שטאטליכע אגענטורן. מיטן אנטוויקלען די קאונטי, טוען מיר באשוצן און מוטיגן די אינטערעסן פון מענטשן און דאס לאנד.</p>
-  </body>
-</document>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>131</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/YID/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="startsida.html"/><parallel_text xml:lang="fin" location="startsida.html"/><parallel_text xml:lang="fit" location="startsida.html"/><parallel_text xml:lang="sma" location="startsida.html"/><parallel_text xml:lang="sme" location="startsida.html"/><parallel_text xml:lang="swe" location="startsida.html"/><parallel_text location="startsida.html" xml:lang="rmu"/><parallel_text location="startsida.html" xml:lang="rmy-rka"/><parallel_text location="startsida.html" xml:lang="rmy-rlo"/><parallel_text location="startsida.html" xml:lang="rmf"/><parallel_text location="startsida.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">קאונטי אדמיניסטראטיווע באורד - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe">היים בלאט</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">קאונטי אדמיניסטראטיווע באורד</p>
+<p xml:lang="swe"><em type="italic">די קאונטי אדמיניסטראציע איז א שטאטליכע אגענטור וואס איז נאנט צו מענטשן אין איטליכע קאונטי. מיר זענען א וויכטיגע פארבינדונג צווישן מענשטן אין מוניציפאליטעטן פון איין זייט, און די רעגירונג, פארלימענט, און צענטראלע אגענטורן פון די אנדערע זייט. די קאונטי גאווארנאר איז די הויפט פון די קאונטי אדמיניסטראציע און איז באאויפטראגט מיט אויפזיכטן אנטוויקלונגען און אינפארמירן די רעגירונג איבער די געברויכן פון די קאונטי. </em></p>
+<p xml:lang="swe">די קאונטי אטדמיניסטראציע'ס מיסיע איז צו מוטיגן א אויסהאלטנדע אנטוויקלונג פון די קאונטי, קאארדינירן א גוטע ענווייראמענטאלע, וואוקס, און גוטע-וואוינונג אומשטענדן. די קאונטי אדמיניסטראציע איז פאראנטווארטליך פארן אויספירן רעגירונג און פארלימענטארע באשלוסן אין די קאונטי אין קאארדינירן מיט שטאטליכע אגענטורן. מיטן אנטוויקלען די קאונטי, טוען מיר באשוצן און מוטיגן די אינטערעסן פון מענטשן און דאס לאנד.</p>
+</body></document>
