@@ -1,14 +1,16 @@
-<document xml:lang="yid" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>774</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Regler-och-rattigheter/Tolktjanst</origFileName><parallel_text xml:lang="eng" location="tolktjanst.html"/><parallel_text xml:lang="fin" location="tolktjanst.html"/><parallel_text xml:lang="fit" location="tolktjanst.html"/><parallel_text xml:lang="sma" location="tolktjanst.html"/><parallel_text xml:lang="sme" location="tilktjanst.html"/><parallel_text xml:lang="smj" location="tolktjanst.html"/><parallel_text xml:lang="swe" location="tolktjanst.html"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/><parallel_text location="tolktjanst.html" xml:lang="rmn"/><parallel_text location="tolktjanst.html" xml:lang="rmu"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rlo"/><parallel_text location="tolktjanst.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Dolmetsher-badinung / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p></p>
-<p></p>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>774</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="yid"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Regler-och-rattigheter/Tolktjanst</origFileName><parallel_text xml:lang="eng" location="tolktjanst.html"/><parallel_text xml:lang="fin" location="tolktjanst.html"/><parallel_text xml:lang="fit" location="tolktjanst.html"/><parallel_text xml:lang="sma" location="tolktjanst.html"/><parallel_text xml:lang="sme" location="tilktjanst.html"/><parallel_text xml:lang="smj" location="tolktjanst.html"/><parallel_text xml:lang="swe" location="tolktjanst.html"/><parallel_text xml:lang="rmy-rka" location="tolktjanst.html"/><parallel_text xml:lang="rmn" location="tolktjanst.html"/><parallel_text xml:lang="rmu" location="tolktjanst.html"/><parallel_text xml:lang="rmy-rlo" location="tolktjanst.html"/><parallel_text xml:lang="rmf" location="tolktjanst.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">Dolmetsher-badinung / Tolktjänst - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
 <p type="title">Dolmetsher-badinungTolktjänst</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Iberzetsungen ojf andere shprachn</p>
 <p>Det meditsinisher personal darf ibergebn informatsies tsugepaste tsu jedn joched. Der doziker personal miz nemen in batracht, tsvishn andere zachn, ajer kultureln opshtam un ajer shprach. Dos hejst az ven es iz nejtik, darf zich der personal banitsn mit a dolmetsher bajm ibergebn a gevise informatsie. Ir kent alejn fodern tsu bakumen a dolmetsher in fal ven kejner fregt ajch nisht tsi ir badarft ejnem. Vendt zich, in dem fal, tsum bjuro fun der munitsipalitet, vos iz farantvortlech tsutsushteln dolmetshers far imigrantn.</p>
 <p>Baj imigrantn vos badarfn a dolmetsher in zejer farbindungen mit dem farhit- un bahandl-personal, iz oft mol faran krojvim oder chavejrim velche kenen iberzetsn. Nor ojch ven es gefint zich an azoj gerufener <span type="quote">"mishpoche-dolmetsher"</span>, iz in jedn fal gevuntsht ontsukumen tsu an ofitsieln dolmetsher tsugeshtelt durch dem dermontn bjuro. Machmes di untershejdn in kultur un in vertn tsvishn mentshn fun farshejdene lender iz a mol kedaj ontsukumen tsu a nejtraln mentshn vos zol kenen helfn mit der iberzetsung.</p>
 <p type="title">Vu vendt men zich?</p>
 <p>Ir kent zich vendn tsum telefonishn tsenter fun der munitsipalitet un dort vet men ajch vajter opshikn vu ir badarft.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Dolmetisher-tsentrale</p>
 <p>Di merste regionen un regionale rotn (Landstinget) hobn ejgene dolmetshers-tsentrales, beshas di andere farmitlen zejer badinung.</p>
 <p>In der dolmetshers-tsentrale arbetn spetsiel ojsgeshulte dolmetshers, vi tsum bajshpil:</p>
@@ -21,14 +23,14 @@
 <p>Ven ir nejtikt zich in a dolmetsher, kent ir zich farbindn mit der dolmetshers-tsentrale funem plats vu ir vojnt. Der telefon-numer gefint zich in telefon-buch untern titel <span type="quote">"gezunt un meditsinishe farzorgung"</span> (Hälso- och sjukvård). Ir kent zich farbindn mit der dolmetshers-tsentrale durch a shrajb-telefon (TTY).</p>
 <p type="title">Gezetsn</p>
 <p>Dos shvedishe gezets vegn gezunt un meditsinishe farzorgung (Hälso- och sjukvårdslagen): SFS 1982:763.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title" xml:lang="swe">Reddinst (Taltjänst)</p>
 <p>Di reddisnt iz an umziste badinung far di vos hobn shverikejtn mit zejere shtim, mitn redn oder mit der shprach. Di dozike badinung shtelt on bazundere dolmetshers. Di reddinst vert dervajl forgelejgt in tsen shprachn. Do ken men bakumen hilf in di vajterdike gebitn:</p>
 <list><p type="listitem">Hilf tsu redn, dos hejst, az di funktsie funem dolmetisher iz arojstsuhelfn in a perzenlechn ojstojsh ven di farbindung kumt ojs tsu zajn an umzichere tsi a shvere. Zej chazern iber un/oder machn klorer di rejd oder di farbind-forem, velche zi zol nisht zajn.</p>
 <p type="listitem">Telefonishe hilf, dos hejst az me bakumt hilf tsu firn a telefonishn geshprech mit a dritn: Der dolmetsher firt arajn dem shmues ojfklerendik forojs jede megleche misfarshtendnish, un blajbt noch dem in hintergrunt.</p>
 <p type="listitem">Hilf tsum lejenen un shrajbn, dos hejst az me bakumt hilf tsu lejenen un/oder shrajbn briv un andere dokumentn, fartsajchenen notitsn ojf zitsungen, un azoj vajter.</p>
-</list><p></p>
-<p type="title"><span type="quote">"Teleshmues"</span></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe"><span type="quote">"Teleshmues"</span></p>
 <p><span type="quote">"Teleshmues"</span> iz an umziste badinung ibern gantsn land, far di vos hobn shverikejtn mit zejer shtim, mitn redn tsi mit der shprach. In <span type="quote">"Teleshmues"</span> arbetn rejd-dolmetshers spetsializirt blojz in der shvedisher shprach. Me ken bakumen di vajterdike badinung:</p>
 <list><p type="listitem">Dolmetshers fun <span type="quote">"Teleshmues"</span> vos deshifrirn shvere verter un ojsdrukn far di vemen es iz shver tsu hern oder farshtejn vos men zogt.</p>
 <p type="listitem">Der dolmetsher derklert dem vos nejtikt zich derin, vi es farbindn zich farshejdene zachn ejne mit der anderer. Zej kenen ajch ojch helfn farknipn a telefonishn kontakt durch telefonishe tsentrales.</p>

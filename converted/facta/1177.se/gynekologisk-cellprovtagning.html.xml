@@ -1,8 +1,10 @@
-<document xml:lang="yid" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2429</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="yid"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName><parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/><parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/><parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/><parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/><parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Ginekologishe tselen-unterzuchung / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p></p>
-<p></p>
+<document xml:lang="yid" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2429</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="yid"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Jiddisch-latinsk-skrift/Undersokningar--prover/Gynekologisk-cellprovtagning</origFileName><parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/><parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/><parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/><parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="rmy-rka" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="rmn" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="rmu" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="rmy-rlo" location="gynekologisk-cellprovtagning.html"/><parallel_text xml:lang="rmf" location="gynekologisk-cellprovtagning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">Ginekologishe tselen-unterzuchung / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
 <p type="title">Ginekologishe tselen-unterzuchungGynekologisk cellprovtagning</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Kitsur</p>
 <p>S´iz meglech zich tsu farhitn kegn a rak in muter-heldzl durchfirendik a regulere ginekologishe tseln-unterzuchung. Es vert genumen a probke tseln fun arajngang funem muter-heldzl, vos gefint zich in der frojs seksuelen organ. Azoj arum ken men zich dervisn baj tsajtns tsi es zenen faran enderungen in di tseln velche kenen derfirn tsu a rak inem muter-heldzl.</p>
 <p>S´rov enderungen vos men antdekt zenen klejne enderungen, vos hejln zich alejn. Nor in a tejl faln muz men aveknemen di geenderte tseln. In zeltene faln, ken di tseln-unterzuchung vajzn az ir hot a rak. In azeleche faln, gefint zich di krankejt, bederech-klal, in a friikn tsushtand un di bahandlung vet zajn fil lajchter un mit vejniker baglejt-simptomen.</p>
@@ -16,7 +18,7 @@
 <p>Di unterzuchung tut nisht vej un zi dojert nor etleche minut. In algemejn bakumt men di rezultatn fun der tseln-unterzuchung in farlojf fun zeks vochn.</p>
 <p type="title">Vi azoj filt men zich noch der unterzuchung?</p>
 <p>Di unterzuchung brengt nisht mit zich kejn sakone. A mol ken zich trefn a klejne blutung noch der unterzuchung, nor dos iz nisht mesukn.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">In vos bashtejt di ginekologishe tseln-unterzuchung?</p>
 <p type="title">Gebn a tseln-probke</p>
 <p>Di ginekologishe tseln-probke vert genumen fun untershten tejl funem muter-heldzl, dort vu es kumt arojs in der vagine.</p>
@@ -30,14 +32,14 @@
 <p>Enderungen in di tseln kenen forkumen tsulib a tserejtsung fun der shlajmhojt, provotsirt durch bakterjes oder durch a tsajt-vajliker viraler antsindung. Dos iz a gants farshprejte tseln-enderung, vos ken dir ojs-hejln fun zich alejn.</p>
 <p>Es nemt a sach tsajt biz di enderungen in di tseln antviklen zich in a rak in muter-heldzl, in algemejn tsen biz fuftsen jor. Zejer zeltn gefint men an antvikeltn rak baj di tseln-unterzuchungen, ober dos geshet ojch a mol. In a zeleche faln gefint zich bederech-klal der rak in a friikn shtapl, un deriber iz meglech az di bahandlung zol zajn a lajchtere mit vejniker baglajt-simptomen.</p>
 <p>Jedes jor vern an erech 450 shvedishe frojen krank ojf a rak in muter-heldzl, beshas a sach mer, arum 30.000 frojen, bakumen a meldung az zej hobn enderungen in di tseln.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Frojen vern farbetn ojf a regulern ojfn</p>
 <p>Ale frojen inem elter fun 23 biz 50 jor, vern bashtelt ojf a tseln-unterzuchung ale draj jor. Vajter, in elter fun 50 biz 60 jor, vert men bashtelt ale finf jor. Di tsajt tsvishn di bashtelungen ken zich endern a bisl far di eltere fun 50 jor. Dos vendt zich inem plats vu ir vojnt in land. Frojen vos zenen shojn frier bahandelt gevorn iber enderungen in di tseln, veln efsher badarfn durchfirn tseln-unterzuchungen ojch noch dem elter fun 60 jor.</p>
 <p>Di meldung vert geshikt ojfn adres ojf velchn ir zent farshribn un di batajlikung iz shtendik a frajvilike.</p>
 <p type="title">In velche klinik git men arajn di unterzuchung?</p>
 <p>Ven ir vert bashtelt, vert di unterzuchung durchgefirt durch an akusherke in der akusherkes-klinik, vos hejst ojch klinik far muter-bahandlung, in s´rov faln, bakumt men a bashtimtn termin, velchn me ken bajtn.</p>
 <p>Ojb ir get iber di tseln-probke tsuzamen mit a ginekologisher unterzuchung, tsum bajshpil baj a ginekolog oder in farbindung mit a baratung tsu bakumen farhit-mitlen, dan vert di unterzuchung ojch farshribn azoj, az ir zolt bakumen di bashtelung ojf a najer tseln-unterzuchung noch draj oder finf jor.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Es zenen faran frojen vos muzn nisht durchmachn aza unterzuchung</p>
 <p><em type="italic">Es vern nisht bashtelt frojen vos zenen jinger fun 23 jor oder elter fun 60 jor </em></p>
 <p>Frojen vos zenen jinger fun 23 jor vern nisht bashtelt ojf a tseln-unterzuchung. Richtig iz az enderungen in di tseln zenen gants geventlech farn elter fun 23 jor, nor merstens farshvindn zej fun zich alejn baj a zelche junge frojen. Es iz zejer zeltn az a rak in muter-heldzl zol zich antviklen azoj fri. Ojb ir hot zich shojn batejlikt in a ginekologisher tseln-unterzuchung un di rezultatn zenen etleche mol geven normale bizn elter fun 60 jor, zenen di shantsn shpeter tsu entviklen a rak in muter-heldzl zejer klejne.</p>
@@ -48,7 +50,7 @@
 <p type="title">Ver es hot durchgemacht an uterus-operatsie</p>
 <p>Ojb men hot durch an operatsie aropgenumen dem gantsn uterus - azojns iz bakant vi <span type="quote">"histerektomie"</span> - darft ir nisht durchmachn ken tseln-unterzuchung, vajl in a za fal iz ojch der arajngang fun muter-heldzl in gantsn aropgenumen gevorn bejs der operatsie. Ober ojb di operatsie iz durchgefirt gevorn tsulib a rak in muter-heldzl oder tsulib enderungen in tseln fun muter-heldzl, muz men vajter gejn ojf unterzuchungen. In aza fal, nemt men di tseln-probke fun dem ejbershtn tejl vagine.</p>
 <p>Ojb ir zent nisht zicher vos far an operatsie ir hot durchgemacht oder vos genoj men hot ajch aropgenumen bejs der operatsie, kent ir zich nochfregn in der klinik vu men hot ajch operirt. Ojch di akusherke, in der akusherkes-klinik oder klinik far muter-bahandlung, ken ajch oft mol helfn bakumen di dozike informatsie. Ojb ir zent nisht zicher, iz beser jo durchtsumachn di unterzuchung.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Ot vi es gejt tsu di unterzuchung</p>
 <p type="title">Tsugrejtungen</p>
 <p>Es zenen nisht nejtik kejn spetsiele tsugrejtungen, ober es iz beser nisht tsu hobn kejn seksuele batsiung oder zich banitsn mit velchn nisht iz krem in di seksuele organen, a mes-les far der unterzuchung. Anisht ken zajn shver tsu interpretirn di rezultatn fun der unterzuchung. In der tsajt fun menstruatsie ken men ojch nisht durchfirn di unterzuchung.</p>
@@ -66,7 +68,7 @@
 <p>Di shlajmhojt funem muter-heldzl blutikt lajcht un es iz a geventliche zach, es zol arojs a klejn un nisht geferliche kames blut noch der unterzuchung. Dos blut vert farshvundn noch an erech ejn tog.</p>
 <p type="title">Trogedike frojen kenen durchmachn di unterzuchung</p>
 <p>Di unterzuchung iz in gantsn nisht kejn geferleche, azoj az me ken durchfirn di unterzuchung ojch ojb ir zent trogedik. Me rekomendirt durchtsumachn di unterzuchung tsum shpetstn in der 15ter voch fun der shvangershaft. Di sibe dertsu iz az dos ojsforshn a nisht-geventlechn rezultat iz shver ven dos trogn iz shojn avansirter.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Ven bakumt men an entfer?</p>
 <p type="title">Der grester tejl entfers vajzn nisht kejn enderungen</p>
 <p>Me bakumt di rezultatn fun der unterzuchung durch dem post in farlojf fun zeks vochn, nor a mol ken es dojern lenger. Arum 95 fun 100 zenen on enderungen in di tseln un vern batracht vi normale. In dem fal, bakumt men durch der post glajch der entfer fun der laboratorie.</p>
